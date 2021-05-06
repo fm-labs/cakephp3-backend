@@ -42,7 +42,7 @@
     "sweetalert2": "^9.10.12",
     "tinymce": "^5.2.2",
     "toastr": "^2.1.4",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   },
   "dependencies": {
   }
