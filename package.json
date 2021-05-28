@@ -40,7 +40,7 @@
     "select2-bootstrap-theme": "^0.1.0-beta.10",
     "sumoselect": "^3.0.5",
     "sweetalert2": "^9.10.12",
-    "tinymce": "^5.2.2",
+    "tinymce": "^5.7.1",
     "toastr": "^2.1.4",
     "underscore": "^1.10.2"
   },
